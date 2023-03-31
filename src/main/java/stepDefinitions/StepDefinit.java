@@ -1,6 +1,5 @@
 package stepDefinitions;
 
-package stepDefine;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -14,7 +13,7 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 @Test
 
-public class stepDefini {
+public class stepDefinit {
 	
 	
 
